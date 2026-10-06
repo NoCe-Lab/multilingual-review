@@ -2,7 +2,7 @@
 
 Materials and figure-generation code accompanying a published review of multilingual lexico-semantic processing.
 
-Originally created by [Abigail Licata](https://github.com/licataae). Extracted from the MultipleFormsManyMeanings and NoCe Lab CoLex repositories with relevant commit authorship preserved.
+Originally created by [Abigail Licata](https://github.com/licataae).
 
 ## Contents
 
