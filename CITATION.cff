@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using these materials; see preferred-citation."
+type: software
+authors:
+- family-names: "Licata"
+  given-names: "Abigail E."
+license: MIT
+title: "Multilingual review: materials and figure-generation code"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Licata"
+      given-names: "Abigail E."
+    - family-names: "Bouffier"
+      given-names: "Marion"
+    - family-names: "Borghesani"
+      given-names: "Valentina"
+  title: "A pre-registered scoping review of neuroimaging evidence concerning lexico-semantic processing in multilingual speakers"
+  journal: "Neuroscience & Biobehavioral Reviews"
+  year: 2026
+  volume: "184"
+  start: "106591"
+  doi: "10.1016/j.neubiorev.2026.106591"

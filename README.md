@@ -17,7 +17,11 @@ The protocol is also available on [OSF](https://osf.io/5xefc/).
 
 ## Use and citation
 
-Inspect the figure notebook's input paths and dependencies before running it. Cite the accompanying published review when using these materials. Its full citation will be added here before publication of this standalone repository.
+Inspect the figure notebook's input paths and dependencies before running it. Cite the accompanying published review when using these materials:
+
+Licata, A. E., Bouffier, M., & Borghesani, V. (2026). A pre-registered scoping review of neuroimaging evidence concerning lexico-semantic processing in multilingual speakers. *Neuroscience & Biobehavioral Reviews, 184*, 106591. https://doi.org/10.1016/j.neubiorev.2026.106591
+
+See `CITATION.cff` for machine-readable citation metadata.
 
 ## License
 
