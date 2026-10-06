@@ -1,0 +1,24 @@
+# Multilingual review
+
+Materials and figure-generation code accompanying a published review of multilingual lexico-semantic processing.
+
+Originally created by [Abigail Licata](https://github.com/licataae). Extracted from the MultipleFormsManyMeanings and NoCe Lab CoLex repositories with relevant commit authorship preserved.
+
+## Contents
+
+- `Review_Protocol_Feb2023.pdf`: preregistered review protocol.
+- `Transparent-Changes-Template-Document.docx`: documented protocol changes.
+- `screening_results.xlsx`: screening decisions and exclusion reasons.
+- `scratch_plotting.xlsx`: figure source workbook.
+- `figure_plotting/figure3_plotting.ipynb`: figure-generation notebook.
+- `figure_plotting/figures/`: figure outputs.
+
+The protocol is also available on [OSF](https://osf.io/5xefc/).
+
+## Use and citation
+
+Inspect the figure notebook's input paths and dependencies before running it. Cite the accompanying published review when using these materials. Its full citation will be added here before publication of this standalone repository.
+
+## License
+
+See `LICENSE` for the MIT license and original copyright notice.
